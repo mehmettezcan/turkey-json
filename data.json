@@ -1,11 +1,326 @@
 [{
-        "drillColor": "#C13664",
-        "name": "Adana",
-        "color": "#71B081"
+        "drillColor": "grey",
+        "name": "Adana"
     },
     {
-        "drillColor": "#9C3367",
-        "name": "Antalya",
-        "color": "#5A9A77"
+        "drillColor": "grey",
+        "name": "Adıyaman"
+    },
+    {
+        "drillColor": "grey",
+        "name": "Afyon"
+    },
+    {
+        "drillColor": "grey",
+        "name": "Ağrı"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Aksaray"
+    },
+    {
+        "drillColor": "grey",
+        "name": "Amasya"
+    },
+    {
+        "drillColor": "grey",
+        "name": "Ankara"
+    },
+    {
+        "drillColor": "grey",
+        "name": "Antalya"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Ardahan"
+    },
+    {
+        "drillColor": "grey",
+        "name": "Artvin"
+    },
+    {
+        "drillColor": "grey",
+        "name": "Aydın"
+    },
+    {
+        "drillColor": "grey",
+        "name": "Balıkesir"
+    },
+    {
+        "drillColor": "grey",
+        "name": "Bartın"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Batman"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Bayburt"
+    },
+    {
+        "drillColor": "grey",
+        "name": "Bilecik"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Bingöl"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Bitlis"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Bolu"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Burdur"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Bursa"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Çanakkale"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Çankırı"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Çorum"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Denizli"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Diyarbakır"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Düzce"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Edirne"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Elazığ"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Erzincan"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Erzurum"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Eskişehir"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Gaziantep"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Giresun"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Gümüşhane"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Hakkari"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Hatay"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Iğdır"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Isparta"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "İstanbul"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "İzmir"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Kahramanmaraş"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Karabük"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Karaman"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Kars"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Kastamonu"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Kayseri"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Kilis"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Kırıkkale"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Kırklareli"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Kırşehir"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Kocaeli"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Konya"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Kütahya"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Malatya"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Manisa"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Mardin"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Mersin"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Muğla"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Muş"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Nevşehir"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Niğde"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Ordu"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Osmaniye"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Rize"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Sakarya"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Samsun"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Şanlıurfa"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Siirt"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Sinop"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Sivas"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Şırnak"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Tekirdağ"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Tokat"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Trabzon"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Tunceli"
+    },
+
+    {
+        "drillColor": "transparent",
+        "name": "Uşak"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Van"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Yalova"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Yozgat"
+    },
+    {
+        "drillColor": "transparent",
+        "name": "Zonguldak"
     }
 ]
