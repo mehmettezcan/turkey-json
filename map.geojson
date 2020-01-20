@@ -637,8 +637,8 @@
       },
       "properties": {
         "name": "Adana",
-        "number": 1,
-        "fill":"blue"
+        "number": 19,
+        "fill": "blue"
       },
       "type": "Feature"
     },
@@ -824,7 +824,7 @@
       },
       "properties": {
         "name": "Adıyaman",
-        "number": 2
+        "number": 66
       },
       "type": "Feature"
     },
@@ -1062,7 +1062,7 @@
       },
       "properties": {
         "name": "Afyon",
-        "number": 3
+        "number": 52
       },
       "type": "Feature"
     },
@@ -1331,8 +1331,13 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Ağrı",
-        "number": 4
+        "number": 61
       },
       "type": "Feature"
     },
@@ -1482,7 +1487,7 @@
       },
       "properties": {
         "name": "Aksaray",
-        "number": 68
+        "number": 44
       },
       "type": "Feature"
     },
@@ -1664,7 +1669,7 @@
       },
       "properties": {
         "name": "Amasya",
-        "number": 5
+        "number": 48
       },
       "type": "Feature"
     },
@@ -2014,7 +2019,7 @@
       },
       "properties": {
         "name": "Ankara",
-        "number": 6
+        "number": 8
       },
       "type": "Feature"
     },
@@ -3202,7 +3207,7 @@
       },
       "properties": {
         "name": "Antalya",
-        "number": 7
+        "number": 6
       },
       "type": "Feature"
     },
@@ -3408,7 +3413,7 @@
       },
       "properties": {
         "name": "Ardahan",
-        "number": 75
+        "number": 46
       },
       "type": "Feature"
     },
@@ -3625,8 +3630,13 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Artvin",
-        "number": 8
+        "number": 45
       },
       "type": "Feature"
     },
@@ -4110,7 +4120,7 @@
       },
       "properties": {
         "name": "Aydın",
-        "number": 9
+        "number": 53
       },
       "type": "Feature"
     },
@@ -5346,7 +5356,7 @@
       },
       "properties": {
         "name": "Balıkesir",
-        "number": 10
+        "number": 54
       },
       "type": "Feature"
     },
@@ -5502,7 +5512,7 @@
       },
       "properties": {
         "name": "Bartın",
-        "number": 74
+        "number": 17
       },
       "type": "Feature"
     },
@@ -5684,7 +5694,7 @@
       },
       "properties": {
         "name": "Batman",
-        "number": 72
+        "number": 31
       },
       "type": "Feature"
     },
@@ -5806,7 +5816,7 @@
       },
       "properties": {
         "name": "Bayburt",
-        "number": 69
+        "number": 16
       },
       "type": "Feature"
     },
@@ -5960,7 +5970,7 @@
       },
       "properties": {
         "name": "Bilecik",
-        "number": 11
+        "number": 49
       },
       "type": "Feature"
     },
@@ -6154,7 +6164,7 @@
       },
       "properties": {
         "name": "Bingöl",
-        "number": 12
+        "number": 20
       },
       "type": "Feature"
     },
@@ -6368,7 +6378,7 @@
       },
       "properties": {
         "name": "Bitlis",
-        "number": 13
+        "number": 51
       },
       "type": "Feature"
     },
@@ -6566,7 +6576,7 @@
       },
       "properties": {
         "name": "Bolu",
-        "number": 14
+        "number": 9
       },
       "type": "Feature"
     },
@@ -6744,7 +6754,7 @@
       },
       "properties": {
         "name": "Burdur",
-        "number": 15
+        "number": 7
       },
       "type": "Feature"
     },
@@ -7024,7 +7034,7 @@
       },
       "properties": {
         "name": "Bursa",
-        "number": 16
+        "number": 33
       },
       "type": "Feature"
     },
@@ -7628,7 +7638,7 @@
       },
       "properties": {
         "name": "Çanakkale",
-        "number": 17
+        "number": 57
       },
       "type": "Feature"
     },
@@ -7782,7 +7792,7 @@
       },
       "properties": {
         "name": "Çankırı",
-        "number": 18
+        "number": 75
       },
       "type": "Feature"
     },
@@ -7996,7 +8006,7 @@
       },
       "properties": {
         "name": "Çorum",
-        "number": 19
+        "number": 10
       },
       "type": "Feature"
     },
@@ -8222,7 +8232,7 @@
       },
       "properties": {
         "name": "Denizli",
-        "number": 20
+        "number": 4
       },
       "type": "Feature"
     },
@@ -8590,7 +8600,7 @@
       },
       "properties": {
         "name": "Düzce",
-        "number": 81
+        "number": 69
       },
       "type": "Feature"
     },
@@ -9010,7 +9020,7 @@
       },
       "properties": {
         "name": "Edirne",
-        "number": 22
+        "number": 36
       },
       "type": "Feature"
     },
@@ -9232,7 +9242,7 @@
       },
       "properties": {
         "name": "Elazığ",
-        "number": 23
+        "number": 22
       },
       "type": "Feature"
     },
@@ -9510,7 +9520,7 @@
       },
       "properties": {
         "name": "Erzincan",
-        "number": 24
+        "number": 11
       },
       "type": "Feature"
     },
@@ -9844,7 +9854,7 @@
       },
       "properties": {
         "name": "Erzurum",
-        "number": 25
+        "number": 70
       },
       "type": "Feature"
     },
@@ -10062,7 +10072,7 @@
       },
       "properties": {
         "name": "Eskişehir",
-        "number": 26
+        "number": 39
       },
       "type": "Feature"
     },
@@ -10456,7 +10466,7 @@
       },
       "properties": {
         "name": "Giresun",
-        "number": 28
+        "number": 12
       },
       "type": "Feature"
     },
@@ -10662,7 +10672,7 @@
       },
       "properties": {
         "name": "Gümüşhane",
-        "number": 29
+        "number": 79
       },
       "type": "Feature"
     },
@@ -11228,7 +11238,7 @@
       },
       "properties": {
         "name": "Hatay",
-        "number": 31
+        "number": 35
       },
       "type": "Feature"
     },
@@ -11422,7 +11432,7 @@
       },
       "properties": {
         "name": "Iğdır",
-        "number": 76
+        "number": 80
       },
       "type": "Feature"
     },
@@ -11612,7 +11622,7 @@
       },
       "properties": {
         "name": "Isparta",
-        "number": 32
+        "number": 55
       },
       "type": "Feature"
     },
@@ -12143,8 +12153,13 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "İstanbul",
-        "number": 34
+        "number": 1
       },
       "type": "Feature"
     },
@@ -14232,7 +14247,7 @@
       },
       "properties": {
         "name": "İzmir",
-        "number": 35
+        "number": 5
       },
       "type": "Feature"
     },
@@ -14426,7 +14441,7 @@
       },
       "properties": {
         "name": "Kahramanmaraş",
-        "number": 46
+        "number": 26
       },
       "type": "Feature"
     },
@@ -14556,7 +14571,7 @@
       },
       "properties": {
         "name": "Karabük",
-        "number": 78
+        "number": 41
       },
       "type": "Feature"
     },
@@ -14778,7 +14793,7 @@
       },
       "properties": {
         "name": "Karaman",
-        "number": 70
+        "number": 78
       },
       "type": "Feature"
     },
@@ -15027,8 +15042,13 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "name": "Kars",
-        "number": 36
+        "number": 74
       },
       "type": "Feature"
     },
@@ -15230,7 +15250,7 @@
       },
       "properties": {
         "name": "Kastamonu",
-        "number": 37
+        "number": 58
       },
       "type": "Feature"
     },
@@ -15448,7 +15468,7 @@
       },
       "properties": {
         "name": "Kayseri",
-        "number": 38
+        "number": 43
       },
       "type": "Feature"
     },
@@ -15538,7 +15558,7 @@
       },
       "properties": {
         "name": "Kilis",
-        "number": 79
+        "number": 68
       },
       "type": "Feature"
     },
@@ -15672,7 +15692,7 @@
       },
       "properties": {
         "name": "Kırıkkale",
-        "number": 71
+        "number": 59
       },
       "type": "Feature"
     },
@@ -15926,7 +15946,7 @@
       },
       "properties": {
         "name": "Kırklareli",
-        "number": 39
+        "number": 37
       },
       "type": "Feature"
     },
@@ -16112,7 +16132,7 @@
       },
       "properties": {
         "name": "Kırşehir",
-        "number": 40
+        "number": 76
       },
       "type": "Feature"
     },
@@ -16388,7 +16408,7 @@
       },
       "properties": {
         "name": "Kocaeli",
-        "number": 41
+        "number": 2
       },
       "type": "Feature"
     },
@@ -16814,7 +16834,7 @@
       },
       "properties": {
         "name": "Konya",
-        "number": 42
+        "number": 13
       },
       "type": "Feature"
     },
@@ -17032,7 +17052,7 @@
       },
       "properties": {
         "name": "Kütahya",
-        "number": 43
+        "number": 40
       },
       "type": "Feature"
     },
@@ -17282,7 +17302,7 @@
       },
       "properties": {
         "name": "Malatya",
-        "number": 44
+        "number": 60
       },
       "type": "Feature"
     },
@@ -17540,7 +17560,7 @@
       },
       "properties": {
         "name": "Manisa",
-        "number": 45
+        "number": 42
       },
       "type": "Feature"
     },
@@ -17762,7 +17782,7 @@
       },
       "properties": {
         "name": "Mardin",
-        "number": 47
+        "number": 28
       },
       "type": "Feature"
     },
@@ -18230,7 +18250,7 @@
       },
       "properties": {
         "name": "Mersin",
-        "number": 33
+        "number": 25
       },
       "type": "Feature"
     },
@@ -21642,7 +21662,7 @@
       },
       "properties": {
         "name": "Muğla",
-        "number": 48
+        "number": 38
       },
       "type": "Feature"
     },
@@ -21852,7 +21872,7 @@
       },
       "properties": {
         "name": "Muş",
-        "number": 49
+        "number": 29
       },
       "type": "Feature"
     },
@@ -22050,7 +22070,7 @@
       },
       "properties": {
         "name": "Nevşehir",
-        "number": 50
+        "number": 73
       },
       "type": "Feature"
     },
@@ -22252,7 +22272,7 @@
       },
       "properties": {
         "name": "Niğde",
-        "number": 51
+        "number": 72
       },
       "type": "Feature"
     },
@@ -22426,7 +22446,7 @@
       },
       "properties": {
         "name": "Ordu",
-        "number": 52
+        "number": 14
       },
       "type": "Feature"
     },
@@ -22532,7 +22552,7 @@
       },
       "properties": {
         "name": "Osmaniye",
-        "number": 80
+        "number": 24
       },
       "type": "Feature"
     },
@@ -22658,7 +22678,7 @@
       },
       "properties": {
         "name": "Rize",
-        "number": 53
+        "number": 15
       },
       "type": "Feature"
     },
@@ -22826,7 +22846,7 @@
       },
       "properties": {
         "name": "Sakarya",
-        "number": 54
+        "number": 30
       },
       "type": "Feature"
     },
@@ -23166,7 +23186,7 @@
       },
       "properties": {
         "name": "Samsun",
-        "number": 55
+        "number": 3
       },
       "type": "Feature"
     },
@@ -23336,7 +23356,7 @@
       },
       "properties": {
         "name": "Şanlıurfa",
-        "number": 63
+        "number": 67
       },
       "type": "Feature"
     },
@@ -23506,7 +23526,7 @@
       },
       "properties": {
         "name": "Siirt",
-        "number": 56
+        "number": 71
       },
       "type": "Feature"
     },
@@ -23704,7 +23724,7 @@
       },
       "properties": {
         "name": "Sinop",
-        "number": 57
+        "number": 77
       },
       "type": "Feature"
     },
@@ -23918,7 +23938,7 @@
       },
       "properties": {
         "name": "Şırnak",
-        "number": 73
+        "number": 32
       },
       "type": "Feature"
     },
@@ -24284,7 +24304,7 @@
       },
       "properties": {
         "name": "Sivas",
-        "number": 58
+        "number": 62
       },
       "type": "Feature"
     },
@@ -24526,7 +24546,7 @@
       },
       "properties": {
         "name": "Tekirdağ",
-        "number": 59
+        "number": 56
       },
       "type": "Feature"
     },
@@ -24748,7 +24768,7 @@
       },
       "properties": {
         "name": "Tokat",
-        "number": 60
+        "number": 63
       },
       "type": "Feature"
     },
@@ -24930,7 +24950,7 @@
       },
       "properties": {
         "name": "Trabzon",
-        "number": 61
+        "number": 47
       },
       "type": "Feature"
     },
@@ -25128,7 +25148,7 @@
       },
       "properties": {
         "name": "Tunceli",
-        "number": 62
+        "number": 81
       },
       "type": "Feature"
     },
@@ -25246,7 +25266,7 @@
       },
       "properties": {
         "name": "Uşak",
-        "number": 64
+        "number": 50
       },
       "type": "Feature"
     },
@@ -25688,7 +25708,7 @@
       },
       "properties": {
         "name": "Van",
-        "number": 65
+        "number": 64
       },
       "type": "Feature"
     },
@@ -25770,7 +25790,7 @@
       },
       "properties": {
         "name": "Yalova",
-        "number": 77
+        "number": 34
       },
       "type": "Feature"
     },
@@ -26000,7 +26020,7 @@
       },
       "properties": {
         "name": "Yozgat",
-        "number": 66
+        "number": 65
       },
       "type": "Feature"
     },
@@ -26102,7 +26122,7 @@
       },
       "properties": {
         "name": "Zonguldak",
-        "number": 67
+        "number": 18
       },
       "type": "Feature"
     }
